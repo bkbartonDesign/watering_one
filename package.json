@@ -1,0 +1,23 @@
+{
+  "name": "watering_one",
+  "version": "1.0.0",
+  "description": "listing of house plants and when they have been watered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bkbartonDesign/watering_one.git"
+  },
+  "keywords": [
+    "watering",
+    "plants"
+  ],
+  "author": "bkb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkbartonDesign/watering_one/issues"
+  },
+  "homepage": "https://github.com/bkbartonDesign/watering_one"
+}
